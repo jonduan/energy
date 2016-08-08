@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pixyll
-permalink: /energy/about/
+permalink: /about/
 tags: about
 ---
 
