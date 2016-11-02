@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
+title:       Energy Study
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Jon Duan
+description: "A simple, beautiful note for Energy Study."
 baseurl:     "/energy"
 url:         "http://jonduan.github.io"
 date_format: "%b %-d, %Y"
