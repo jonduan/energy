@@ -34,6 +34,6 @@
 @import 'measure';
 @import 'pagination';
 
-+.catbloc:not(:target) {
- +    display: none;
- +}
+.catbloc:not(:target) {
+     display: none;
+ }
