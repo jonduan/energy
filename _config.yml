@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Energy Study
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+author:      Jon Duan
+description: "A simple, beautiful note for energy study."
+baseurl:     "/energy"
+url:         "http://jonduan.github.io/energy"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
